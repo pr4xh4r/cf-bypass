@@ -1,0 +1,13 @@
+# ── Dependencies (never push these — npm install recreates them) ──────────────
+node_modules/
+
+# ── Chrome browser binary (too large for GitHub, ~250MB) ─────────────────────
+chrome/
+
+# ── Secret config (contains your private URLs and keys) ──────────────────────
+.env
+
+# ── OS & editor junk ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
