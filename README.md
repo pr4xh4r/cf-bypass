@@ -170,7 +170,7 @@ The solver (`solver.js`) tries 5 different ways to find and click the Cloudflare
 ## ✅ Tested & Working Example
 
 ```
-Target  : https://stake.ac
+Target  : https://prmovies.exchnage
 Result  : ✅ BYPASS SUCCESSFUL (solved in 0 seconds!)
 Cookies : __cf_bm ✓  |  _cfuvid ✓
 ```
